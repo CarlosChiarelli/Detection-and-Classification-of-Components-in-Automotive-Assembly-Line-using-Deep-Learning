@@ -1,7 +1,7 @@
 # Object_Detection
 Código para treino e inferência de Detecção e Classifcação de objetos. Vídeos de demonstração dos resultados baseados em um experimento de detecção de disco e pinça de freio:
-- Vídeo da base de dados utilizada: 
-- Vídeo de teste na esteira:
+- Vídeo da base de dados utilizada: https://youtu.be/3t9SsZ_SN4s
+- Vídeo de teste na esteira: https://youtu.be/p8uB1kdbbmg
 - Vídeo de teste em ambiente não controlado: https://youtu.be/JFh3peJrghI
 
 # Organizar base de dados:
