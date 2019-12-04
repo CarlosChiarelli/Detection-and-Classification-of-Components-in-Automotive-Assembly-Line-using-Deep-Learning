@@ -4,7 +4,7 @@ Código para treino e inferência de Detecção e Classifcação de objetos. Ví
 - Vídeo de teste na esteira: https://youtu.be/p8uB1kdbbmg
 - Vídeo de teste em ambiente não controlado: https://youtu.be/JFh3peJrghI
 
-![](https://j.gifs.com/vlxkgM.gif)
+![](disc.gif)
 
 # Organizar base de dados:
 ## Instalação e preparação
