@@ -1,0 +1,38 @@
+<annotation>
+	<folder>H79eHHA</folder>
+	<filename>LP11c 187.jpg</filename>
+	<path>C:\Users\cardj\Videos\DiscosDeFreio\ImagemDiscos\H79eHHA\LP11c 187.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>426</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DD3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>72</ymin>
+			<xmax>340</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>P3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>88</ymin>
+			<xmax>221</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

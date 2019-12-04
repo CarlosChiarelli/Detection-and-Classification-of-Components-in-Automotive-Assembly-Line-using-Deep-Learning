@@ -1,0 +1,38 @@
+<annotation>
+	<folder>LowQuality</folder>
+	<filename>LP11b 517.jpg</filename>
+	<path>/home/muriel/Área de Trabalho/BBB(kwid)/LowQuality/LP11b 517.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>426</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DD1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>68</ymin>
+			<xmax>323</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>P1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>69</ymin>
+			<xmax>226</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

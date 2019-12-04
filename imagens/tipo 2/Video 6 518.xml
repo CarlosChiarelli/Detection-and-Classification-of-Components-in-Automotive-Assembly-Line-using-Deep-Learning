@@ -1,0 +1,38 @@
+<annotation>
+	<folder>H79eHHA</folder>
+	<filename>Video 6 518.jpg</filename>
+	<path>C:\Users\cardj\Videos\DiscosDeFreio\ImagemDiscos\H79eHHA\Video 6 518.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DD3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>211</ymin>
+			<xmax>468</xmax>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>P3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>235</ymin>
+			<xmax>195</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

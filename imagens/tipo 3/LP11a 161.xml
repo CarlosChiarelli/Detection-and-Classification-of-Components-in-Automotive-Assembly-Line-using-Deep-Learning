@@ -1,0 +1,38 @@
+<annotation>
+	<folder>X52(San_Log) total</folder>
+	<filename>LP11a 161.jpg</filename>
+	<path>/home/muriel/Área de Trabalho/Cognitive Vision Renault/ImagemDiscos/X52(San_Log) total/LP11a 161.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>426</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DD2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>22</ymin>
+			<xmax>260</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>P2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>21</ymin>
+			<xmax>142</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

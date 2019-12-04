@@ -1,0 +1,38 @@
+<annotation>
+	<folder>X52(San_Log) total</folder>
+	<filename>Video 6 354.jpg</filename>
+	<path>/home/muriel/Área de Trabalho/Cognitive Vision Renault/ImagemDiscos/X52(San_Log) total/Video 6 354.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DD2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>158</ymin>
+			<xmax>721</xmax>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>P2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>157</ymin>
+			<xmax>415</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>
